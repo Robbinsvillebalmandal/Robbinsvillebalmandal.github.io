@@ -13,7 +13,7 @@ const USERNAME = "balmandal", PASSWORD = "Sadhan@19";
 
 		 if(USERNAME == user && PASSWORD == pass) {
 		 	document.location.href = "indexMain.html";
-		 	// alert("here");
+		 	alert("here");
 		 }
 		 else {
 		 	alert("Incorrect Username and/or Password")
