@@ -12,8 +12,6 @@ const USERNAME = "balmandal", PASSWORD = "Sadhan@19";
 			  $('form').fadeOut(500);
 	 		$('.wrapper').addClass('form-success');
 			 
-			 setTimout(nil, 5000);
-			 
 		 	document.location.href = "indexMain.html";
 		 }
 		 else {
