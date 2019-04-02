@@ -15,7 +15,7 @@ const USERNAME = "balmandal", PASSWORD = "Sadhan@19";
 		 	document.location.href = "indexMain.html";
 		 }
 		 else {
-		 	alert("Incorrect Username and/or Password")
+		 	alert("Incorrect Username and/or Password");
 		 }
 
 
