@@ -12,7 +12,7 @@ const USERNAME = "balmandal", PASSWORD = "Sadhan@19";
 		 var pass = document.getElementById("password").value;
 
 		 if(USERNAME == user && PASSWORD == pass) {
-		 	document.location.href = "../../indexMain.html";
+		 	document.location.href = "robbinsvillebalmandal.github.io/indexMain.html";
 		 	// alert("here");
 		 }
 		 else {
